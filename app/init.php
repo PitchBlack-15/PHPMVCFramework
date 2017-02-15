@@ -1,6 +1,6 @@
 <?php
 
-require 'core/App.php';
-require 'core/Controller.php';
+require_once 'core/App.php';
+require_once 'core/Controller.php';
 
 
